@@ -16,8 +16,7 @@ Further obfuscation settings can be added/changed as seen in the NPM documentati
 
 Voila!
 
-### **`javascript-obfuscator`** Node Package License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsp1212%2FJS-obfuscation.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsp1212%2FJS-obfuscation?ref=badge_large)
+### License for the **`javascript-obfuscator`** Node Package
 
 Copyright (c) 2016-2022 [Timofey Kachalov](https://github.com/sanex3339)
 All rights reserved.
