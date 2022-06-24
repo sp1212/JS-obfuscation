@@ -1,3 +1,4 @@
+# JavaScript Obfuscation Tool
 The **`obfuscator.js`** file is used in (CLI) script fashion to obfuscate all JavaScript files within a specified directory.  The obfuscation is done using the [javascript-obfuscator](https://www.npmjs.com/package/javascript-obfuscator) Node package based on a template found [here](https://ourcodeworld.com/articles/read/607/how-to-obfuscate-javascript-code-with-node-js) that has been adapted to loop over an entire directory of JavaScript files.
 
 All existing code functionality should be retained in its entirety after the obfuscation process has been completed.  This means that function names and other identifiers are still able to be called by the same names.
