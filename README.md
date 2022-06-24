@@ -1,5 +1,4 @@
 # JavaScript Obfuscation Tool
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsp1212%2FJS-obfuscation.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsp1212%2FJS-obfuscation?ref=badge_shield)
 
 The **`obfuscator.js`** file is used in (CLI) script fashion to obfuscate all JavaScript files within a specified directory.  The obfuscation is done using the [javascript-obfuscator](https://www.npmjs.com/package/javascript-obfuscator) Node package based on a template found [here](https://ourcodeworld.com/articles/read/607/how-to-obfuscate-javascript-code-with-node-js) that has been adapted to loop over an entire directory of JavaScript files.
 
