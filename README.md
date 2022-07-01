@@ -9,7 +9,7 @@ Further obfuscation settings can be added/changed as seen in the NPM documentati
 ## Usage
 1) Clone this repo, or at least add the **`obfuscator.js`**, **`package-lock.json`**, and  **`package.json`** files to a directory of your choosing.  The root directory of your project may make the most sense.
 2) Run the **`npm ci`** command to install the necessary dependencies found in the **`package-lock.json`** file.
-3) Edit the **`folderPath`** variable within the **`obfuscator.js`** file to specify the (relative) path to the folder within which all of the JavaScript files to be obfuscated are located.
+3) Within the **`obfuscator.js`** file, edit the **`inputFolderPath`** variable to specify the (relative) path to the folder within which all of the JavaScript files to be obfuscated are located, and the **`outputFolderPath`** variable to specify where the obfuscated files should be output.
 4) Edit the **`filesToSkip`** array within the **`obfuscator.js`** file to include file names to avoid obfuscating.
 5) Run the **`node obfuscator.js`** command to carry out obfuscation of all JavaScript files within the specified folder.
 
